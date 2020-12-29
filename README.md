@@ -19,7 +19,6 @@ topElement         bottomElement */
 
 # Task2-MyMergeSort.cpp
 ###
-/*
 -----------
 Merge k sorted arrays (of different length), merge them into a single
 array such that the merged array is also sorted.
@@ -31,5 +30,4 @@ For large size array, to sort it
 is small enough to fit into main memory.
 2. sort each run in main memory using merge sort sorting algorithm
 3. merge the resulting runs together into successively bigger runs
-*/
 ###
